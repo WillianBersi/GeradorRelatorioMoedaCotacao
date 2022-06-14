@@ -1,0 +1,16 @@
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.AssemblyInfoInputs.cache
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.AssemblyInfo.cs
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.csproj.CoreCompileInputs.cache
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\bin\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.exe
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\bin\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.deps.json
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\bin\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.runtimeconfig.json
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\bin\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.runtimeconfig.dev.json
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\bin\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.dll
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\bin\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.pdb
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.dll
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.pdb
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.genruntimeconfig.cache
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.csproj.AssemblyReference.cache
+C:\dev\itau\GeradorRelatorioMoedaCotacao\GeradorRelatorioMoedaCotacao\obj\Debug\netcoreapp3.1\GeradorRelatorioMoedaCotacao.csproj.CopyComplete
